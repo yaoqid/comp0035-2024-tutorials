@@ -225,4 +225,4 @@ if __name__ == "__main__":
 
     # Activity 10: Final call to the function to return the prepared data to a dataframe and save to file
     prepared_df = prepare_event_data(events_csv_df, df_npc_codes)
-    # print(prepared_df)
+    print(prepared_df)
